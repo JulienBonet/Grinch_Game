@@ -23,4 +23,6 @@ We receive the technical prize.
 
 ### > samples
 </br>
-<img src="https://julienbonet.fr/images/gal_grinch_game/ginch_game_1.png" alt="Grinch Game" width="70%"/>
+<img src="https://julienbonet.fr/images/gal_grinch_game/ginch_game_1.png" alt="Grinch Game"/>
+</br>
+<img src="https://julienbonet.fr/images/gal_grinch_game/ginch_game_2.png" alt="Grinch Game"/>
